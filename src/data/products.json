@@ -1,0 +1,231 @@
+[
+  {
+    "id": "iphone-15",
+    "name": "Apple iPhone 15",
+    "brand": "Apple",
+    "category": "Mobiles",
+    "price": 69999,
+    "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=600",
+    "description": "A powerful everyday smartphone with a 48MP main camera, Dynamic Island and USB-C.",
+    "variants": [
+      {
+        "id": "128",
+        "label": "128 GB",
+        "price": 69999
+      },
+      {
+        "id": "256",
+        "label": "256 GB",
+        "price": 79999
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 6,
+        "monthly": 11667,
+        "total": 69999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 12,
+        "monthly": 5833,
+        "total": 69999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 18,
+        "monthly": 3889,
+        "total": 69999,
+        "tag": "No-cost EMI"
+      }
+    ]
+  },
+  {
+    "id": "galaxy-s24",
+    "name": "Samsung Galaxy S24",
+    "brand": "Samsung",
+    "category": "Mobiles",
+    "price": 64999,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600",
+    "description": "Premium Galaxy performance with a bright AMOLED display and versatile camera system.",
+    "variants": [
+      {
+        "id": "128",
+        "label": "128 GB",
+        "price": 64999
+      },
+      {
+        "id": "256",
+        "label": "256 GB",
+        "price": 70999
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 6,
+        "monthly": 10833,
+        "total": 64999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 12,
+        "monthly": 5417,
+        "total": 64999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 18,
+        "monthly": 3611,
+        "total": 64999,
+        "tag": "No-cost EMI"
+      }
+    ]
+  },
+  {
+    "id": "macbook-air",
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 114999,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600",
+    "description": "Thin, light and fast with Apple M3 performance, a Liquid Retina display and all-day battery life.",
+    "variants": [
+      {
+        "id": "256",
+        "label": "256 GB",
+        "price": 114999
+      },
+      {
+        "id": "512",
+        "label": "512 GB",
+        "price": 134999
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 12,
+        "monthly": 9583,
+        "total": 114999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 18,
+        "monthly": 6389,
+        "total": 114999,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 24,
+        "monthly": 4792,
+        "total": 114999,
+        "tag": "No-cost EMI"
+      }
+    ]
+  },
+  {
+    "id": "sony-bravia",
+    "name": "Sony Bravia 55-inch 4K TV",
+    "brand": "Sony",
+    "category": "TVs",
+    "price": 79990,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600",
+    "description": "Immersive 4K picture quality with cinematic sound and smart TV features.",
+    "variants": [
+      {
+        "id": "55",
+        "label": "55 inch",
+        "price": 79990
+      },
+      {
+        "id": "65",
+        "label": "65 inch",
+        "price": 99990
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 12,
+        "monthly": 6666,
+        "total": 79990,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 18,
+        "monthly": 4444,
+        "total": 79990,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 24,
+        "monthly": 3333,
+        "total": 79990,
+        "tag": "No-cost EMI"
+      }
+    ]
+  },
+  {
+    "id": "dyson-v12",
+    "name": "Dyson V12 Detect Slim",
+    "brand": "Dyson",
+    "category": "Appliances",
+    "price": 54900,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600",
+    "description": "Cordless vacuum with powerful suction, laser dust detection and intelligent cleaning modes.",
+    "variants": [
+      {
+        "id": "slim",
+        "label": "V12 Slim",
+        "price": 54900
+      },
+      {
+        "id": "absolute",
+        "label": "V12 Absolute",
+        "price": 59900
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 6,
+        "monthly": 9150,
+        "total": 54900,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 12,
+        "monthly": 4575,
+        "total": 54900,
+        "tag": "No-cost EMI"
+      }
+    ]
+  },
+  {
+    "id": "airpods-pro",
+    "name": "AirPods Pro",
+    "brand": "Apple",
+    "category": "Audio",
+    "price": 24900,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=600",
+    "description": "Active Noise Cancellation, adaptive audio and a comfortable in-ear design.",
+    "variants": [
+      {
+        "id": "usb-c",
+        "label": "USB-C",
+        "price": 24900
+      }
+    ],
+    "emiPlans": [
+      {
+        "months": 6,
+        "monthly": 4150,
+        "total": 24900,
+        "tag": "No-cost EMI"
+      },
+      {
+        "months": 12,
+        "monthly": 2075,
+        "total": 24900,
+        "tag": "No-cost EMI"
+      }
+    ]
+  }
+]

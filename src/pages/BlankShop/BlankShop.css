@@ -1,0 +1,1 @@
+.blank{min-height:100vh;background:#f7f7f8}.blank main{width:min(1120px,calc(100% - 48px));margin:auto}.blank section{min-height:300px;display:grid;place-items:center}@media(max-width:767px){.blank main{width:100%;padding:0 16px 90px}}

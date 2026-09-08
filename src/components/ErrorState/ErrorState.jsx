@@ -1,0 +1,1 @@
+import "./ErrorState.css";export default function ErrorState({retry}){return <div className="error"><b>!</b><h3>Something went wrong</h3><p>We couldn't load the marketplace right now.</p><button onClick={retry}>Try again</button></div>}
