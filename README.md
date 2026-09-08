@@ -1,8 +1,11 @@
 # 1Fi Marketplace Assignment
 
+## Live Demo
 
+🚀 **Live Project:** https://onef1-marketplace.onrender.com
 
 ## Architecture
+
 Every UI component owns its JSX and CSS. No Tailwind CSS is used.
 
 - `components/Navbar` — desktop top navigation
@@ -17,11 +20,14 @@ Every UI component owns its JSX and CSS. No Tailwind CSS is used.
 - `pages/ProductDetails`
 - `pages/BlankShop`
 
-## Responsive behavior
-Desktop uses a centered wide layout and top navbar. Mobile switches to the screenshot-style floating bottom navigation, compact cards, three-tab pill, hero and single/two-column mobile layout.
+## Responsive Behavior
+
+Desktop uses a centered wide layout and top navbar.
+
+Mobile switches to the screenshot-style floating bottom navigation, compact cards, three-tab pill, hero and single/two-column mobile layout.
 
 ## Run
+
 ```bash
 npm install
 npm run dev
-```
