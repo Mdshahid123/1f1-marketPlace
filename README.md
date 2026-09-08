@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-🚀 **Live Project:** https://onef1-marketplace.onrender.com
+**Live Project:** https://onef1-marketplace.onrender.com
 
 ## Architecture
 
