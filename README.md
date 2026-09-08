@@ -1,6 +1,6 @@
 # 1Fi Marketplace Assignment
 
-Responsive React/Vite implementation based on the supplied 1Fi Shop screenshots.
+
 
 ## Architecture
 Every UI component owns its JSX and CSS. No Tailwind CSS is used.
